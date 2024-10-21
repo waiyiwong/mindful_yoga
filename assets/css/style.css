@@ -47,14 +47,15 @@ h2 {
     height: 80px;
     border-radius: 50px;
 }
+/* -------------- Section of Guided Video -------------- */
+iframe {
+    border-radius: 30px;
+    border:10px solid #a68d65;
+}
 /* -------------- Section of Affirmation -------------- */
 .affirmation-bg {
     background: url('../images/bg6.jpg') center no-repeat;
     height: 95vh;
-}
-iframe {
-    border-radius: 30px;
-    border:10px solid #a68d65;
 }
 .iframe2 {
     border: 3px dotted #dfe0df;
@@ -72,23 +73,20 @@ iframe {
     border-radius: 30px;
     display: flex;
     flex-direction: column;
-    margin-left: 1rem;
+    margin-left: 3rem;
     padding-top: 3rem;
 }
-
 /* -------------- Footer -------------- */
-footer {
-    /* display: flex;
-    justify-content: space-between; */
-}
-
+/* .footer {
+    height: 5rem;
+} */
 /* -------------- Media Query -------------- */
 @media (max-width: 400px) {
     .jumbotron p {
         display: none;
     }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     .quotes {
         flex-direction: row;
         height:fit-content;
