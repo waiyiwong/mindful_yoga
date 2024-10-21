@@ -64,12 +64,16 @@ iframe {
     height: 500px;
     max-width: 500px;
     border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: start; 
+    text-align: start; */
 }
-.quote {
+.quote-img {
     height: 50px;
     width: 50px;
     border-radius: 50px;
-    
 }
 /* -------------- Media Query -------------- */
 @media (max-width: 400px) {
