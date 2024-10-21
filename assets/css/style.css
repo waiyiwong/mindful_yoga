@@ -52,7 +52,4 @@ h2 {
     .jumbotron p {
         display: none;
     }
-@media (max-width: 768px) {
-        .jumbotron p {
-            display: none;
-        }
+}
