@@ -56,17 +56,18 @@ iframe {
     border:10px solid #a68d65;
 }
 .iframe2 {
-    border:5px inset #dfe0df;
+    border:5px dotted #dfe0df;
 }
 .quotes {
     background-color: #fff8e8;
-    border:5px outset #dfe0df;
+    border:5px dotted #dfe0df;
     height: 500px;
     max-width: 500px;
     border-radius: 30px;
     display: flex;
     flex-direction: column;
-    margin: 5rem;
+    margin-left: 1rem;
+    padding-top: 3rem;
 }
 .quote-img {
     height: 50px;
@@ -77,5 +78,15 @@ iframe {
 @media (max-width: 400px) {
     .jumbotron p {
         display: none;
+    }
+}
+@media (max-width: 768px) {
+    .quotes {
+        flex-direction: row;
+        height:fit-content;
+        max-width: 98%;
+        margin-top: 2rem;
+        padding: 1rem;
+        border:5px dotted #dfe0df;
     }
 }
