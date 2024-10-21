@@ -49,11 +49,19 @@ h2 {
 .affirmation-bg {
     background: url('../images/bg4.jpeg') center center/cover no-repeat;
     height: 95vh;
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
 }
 iframe {
+    border-radius: 30px;
+    border:10px solid #a68d65;
+}
+.iframe2 {
+    border:10px solid #dfe0df;
+}
+.quotes {
+    background-color: #fff8e8;
+    border:10px solid #dfe0df;
+    height: 500px;
+    max-width: 500px;
     border-radius: 30px;
 }
 /* -------------- Media Query -------------- */
