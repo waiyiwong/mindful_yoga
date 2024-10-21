@@ -49,7 +49,7 @@ h2 {
 }
 /* -------------- Section of Affirmation -------------- */
 .affirmation-bg {
-    background: url('../images/bg4.jpeg') center no-repeat;
+    background: url('../images/bg6.jpg') center no-repeat;
     height: 95vh;
 }
 iframe {
@@ -58,6 +58,11 @@ iframe {
 }
 .iframe2 {
     border: 3px dotted #dfe0df;
+}
+.quote-img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
 }
 .quotes {
     background-color: #fff8e8;
@@ -70,11 +75,7 @@ iframe {
     margin-left: 1rem;
     padding-top: 3rem;
 }
-.quote-img {
-    height: 50px;
-    width: 50px;
-    border-radius: 50px;
-}
+
 /* -------------- Footer -------------- */
 footer {
     /* display: flex;
