@@ -4,7 +4,8 @@ hr {
     height: 1rem;
     background-color: #fff;
     width: 50%; 
-    margin: 20px auto; /* Center it with spacing */
+    margin: 20px auto; 
+    /* Center it with spacing */
 }
 /* -------------- Nav bar --------------*/
 .nav-item {
@@ -47,7 +48,7 @@ h2 {
 }
 /* -------------- Section of Affirmation -------------- */
 .affirmation-bg {
-    background: url('../images/bg4.jpeg') center center/cover no-repeat;
+    background: url('../images/bg4.jpeg') center no-repeat;
     height: 95vh;
 }
 iframe {
@@ -55,14 +56,20 @@ iframe {
     border:10px solid #a68d65;
 }
 .iframe2 {
-    border:10px solid #dfe0df;
+    border:5px inset #dfe0df;
 }
 .quotes {
     background-color: #fff8e8;
-    border:10px solid #dfe0df;
+    border:5px outset #dfe0df;
     height: 500px;
     max-width: 500px;
     border-radius: 30px;
+}
+.quote {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    
 }
 /* -------------- Media Query -------------- */
 @media (max-width: 400px) {
