@@ -37,7 +37,6 @@ h1 {
     font-family: "Beth Ellen", "Homemade Apple";
     margin-bottom: 5%;
 }
-
 /* -------------- Section of Mindful yoga -------------- */
 h2 {
     text-align: center;
@@ -46,7 +45,14 @@ h2 {
     height: 80px;
     border-radius: 50px;
 }
-
+/* -------------- Section of Affirmation -------------- */
+.affirmation-bg {
+    background: url('../images/bg4.jpeg') center center/cover no-repeat;
+    height: 95vh;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
 /* -------------- Media Query -------------- */
 @media (max-width: 400px) {
     .jumbotron p {
