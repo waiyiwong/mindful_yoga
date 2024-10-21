@@ -53,6 +53,9 @@ h2 {
     align-items: center;
     justify-content: center; */
 }
+iframe {
+    border-radius: 30px;
+}
 /* -------------- Media Query -------------- */
 @media (max-width: 400px) {
     .jumbotron p {
