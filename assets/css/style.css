@@ -1,3 +1,11 @@
+/* -------------- General rules --------------*/
+hr {
+    border: none;
+    height: 1rem;
+    background-color: #fff;
+    width: 50%; 
+    margin: 20px auto; /* Center it with spacing */
+}
 /* -------------- Nav bar --------------*/
 .nav-item {
     margin-left: 0.3rem;
