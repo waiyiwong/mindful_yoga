@@ -2,3 +2,25 @@
 .nav-item {
     margin-left: 0.3rem;
 }
+/* Main */
+.hero-bg {
+    background: url('../images/bg1.png') center center/cover no-repeat;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.jumbotron {
+    background-color: #fb882430;
+    height: 50vh;
+    padding: 2rem 5rem;
+    border-radius: 28px;
+}
+h5, p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+h1 {
+    font-family: "Beth Ellen", "Homemade Apple";
+    margin-bottom: 5%;
+}
