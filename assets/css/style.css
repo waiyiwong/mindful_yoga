@@ -1,20 +1,25 @@
-/* Nav bar */
+/* -------------- Nav bar --------------*/
 .nav-item {
     margin-left: 0.3rem;
 }
-/* Main */
+/* -------------- Main -------------- */
 .hero-bg {
     background: url('../images/bg1.png') center center/cover no-repeat;
-    height: 90vh;
+    height: 95vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .jumbotron {
     background-color: #fb882430;
-    height: 50vh;
-    padding: 2rem 5rem;
+    height: 58vh;
+    padding: 1rem 5rem;
     border-radius: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    text-align: center;
 }
 h5, p {
     font-family: "Roboto", sans-serif;
@@ -24,3 +29,18 @@ h1 {
     font-family: "Beth Ellen", "Homemade Apple";
     margin-bottom: 5%;
 }
+
+/* -------------- Section of Mindful yoga -------------- */
+h2 {
+    text-align: center;
+}
+.img {
+    height: 80px;
+    border-radius: 50px;
+}
+
+/* -------------- Media Query -------------- */
+@media (max-width: 400px) {
+    .jumbotron p {
+        display: none;
+    }
