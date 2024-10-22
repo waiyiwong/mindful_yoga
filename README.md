@@ -1,7 +1,7 @@
 # ![icon.png](assets/images/icon.png) Welcome to my Mindful Yoga Project
 <a href="https://waiyiwong.github.io/mindful_yoga/" target="_blank" style="text-align: center;">View live project here</a> <br>
 (To open in a new window, press "ctrl" (or ⌘ for Mac) + click on the link) 
-<img src="assets/images/responsiveness.png">
+<img src="documentation/responsiveness.png">
 
 ---
 
@@ -98,7 +98,7 @@ Mindful YOga
 
 <summary>Wireframe - Homepage Desktop & Mobile</summary>  
 
-![wireframe.png](assets/images/wireframe.png)
+![wireframe.png](documentation/wireframe.png)
 
 ### **5. Surface**  
 
@@ -110,8 +110,8 @@ The design was intended and created to evoke a relaxing and safe environment.
 
 This website used a natural palette of pinks and oranges that were inspired by the hero background image.  I combined these with a darker colour for contrast and readabilty in the text.
   
-![colorscheme.png)](assets/images/colorscheme.png)
-![colorscheme2.png)](assets/images/colorscheme2.png)
+![colorscheme.png)](documentation/colorscheme.png)
+![colorscheme2.png)](documentation/colorscheme2.png)
 
 [Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) checked how accessible the colours are.  
 
