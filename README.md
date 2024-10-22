@@ -233,9 +233,10 @@ This approach combined simulated testing through DevTools with actual device tes
 <br>
 
 ### **Bugs & Fixes**
+- Failed responsiveness in smaller devices (fixed with bootstrap & media query)
 
 ### **Unsolved Bugs**
-
+- toggler menu not working properly (pull-down menu fails)
 
 ---
 ## **Credits**
