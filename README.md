@@ -101,10 +101,9 @@ Auto-generated captions for video content
  
 
 --- 
- ## Design
- ### Wireframes  
-<summary>Wireframe - Homepage Desktop & Mobile</summary>  
-
+ ## **Design**
+ ### **Wireframes**  
+Wireframe - Homepage Desktop & Mobile
 ![wireframe.png](documentation/wireframe.png)
 
 ### **Color Scheme**  
@@ -121,9 +120,7 @@ This website used a natural palette of pinks and oranges that were inspired by t
 
 ![bethellen.png)](documentation/bethellen.png)
   
-### **Imagery**  
- 
-
+### **Imagery**   
 Mindful Yoga use stock and AI images throughout the website, with attributions to the designers placed in the [Credits](#credits) section of this README doc.
 
 ---  
