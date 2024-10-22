@@ -1,1 +1,1 @@
-# ![logo](./documentation/homepage.png) Mindful Yoga
+# Mindful Yoga(assets/images/responsiveness.png) 
