@@ -7,7 +7,7 @@
 
 ## CONTENTS  
   
-* [UXD (User Experience Design)](#user-experience-ux)
+* [UX (User Experience) Desgin](#user-experience-(ux))
   * [User Stories](#user-stories) 
 * [Creation process (Strategy -> Surface)](#creation-process)
   * [Wireframes](#wireframes)
@@ -44,7 +44,7 @@
   
 ---    
 
-## User Experience (UX)  
+## User Experience (UX)
   
 ### **User Stories**  
 
@@ -117,7 +117,7 @@ This website used a natural palette of pinks and oranges that were inspired by t
 
 ### **Typography**  
   
-[Google Fonts](https://fonts.google.com/) was used to import the fonts 'Beth Ellen' and 'Roboton'. I used Beth Ellen for <h1> headings and Roboton for the main content.
+[Google Fonts](https://fonts.google.com/) was used to import the fonts 'Beth Ellen' and 'Roboton'. I used Beth Ellen for h1 headings and Roboton for the main content.
 
 ![bethellen.png)](documentation/bethellen.png)
   
