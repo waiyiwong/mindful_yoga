@@ -112,7 +112,11 @@ This website used a natural palette of pinks and oranges that were inspired by t
 ![colorscheme.png)](documentation/colorscheme.png)
 ![colorscheme2.png)](documentation/colorscheme2.png)
 
-[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) checked how accessible the colours are and all pass.
+[Colormind](http://colormind.io/) 
+[Color Palettes](https://mycolor.space/)
+are used for color scheme generator.
+
+[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) checks the color contrast (accessiblility) of the site.
 
 ![color contrast test pass)](documentation/color_contrast.png)
 ![color contrast on nav bar test pass)](documentation/color_contrast_nav_bar.png)
@@ -245,6 +249,7 @@ This approach combined simulated testing through DevTools with actual device tes
 - Mindful Yoga is built entirly by myself from scratch with reference to the folllowing websites:
 - [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS learning materials.
 - [Bootstrap](https://getbootstrap.com/docs/5.3/) for additional learning material and help with bootstrap.
+- https://positivepsychology.com/mindfulness-yoga/
 
 ### **Media References**  
 - Adobe Color - for all color palettes and accessibility contrast ratios  
