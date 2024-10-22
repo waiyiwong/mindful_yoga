@@ -55,7 +55,7 @@ iframe {
 /* -------------- Section of Affirmation -------------- */
 .affirmation-bg {
     background: url('../images/bg6.jpg') center no-repeat;
-    height: 95vh;
+    /* height: 95vh; */
 }
 .iframe2 {
     border: 3px dotted #dfe0df;
@@ -76,14 +76,15 @@ iframe {
     margin-left: 3rem;
     padding-top: 3rem;
 }
+
 /* -------------- Footer -------------- */
-/* .footer {
-    height: 5rem;
-} */
 /* -------------- Media Query -------------- */
 @media (max-width: 400px) {
     .jumbotron p {
         display: none;
+    }
+    #affirmation {
+        margin-bottom: 5rem;
     }
 }
 @media (max-width: 767px) {
@@ -94,5 +95,8 @@ iframe {
         margin-top: 2rem;
         padding: 1rem;
         border:5px dotted #dfe0df;
+    }
+    #affirmation {
+        margin-bottom: 3rem;
     }
 }
