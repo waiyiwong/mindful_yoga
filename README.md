@@ -57,23 +57,33 @@ Our target audience primarily consists of women aged 25-45 who are seeking inner
 
 ### **Key Features**
 #### **Guided Mindful Yoga Video**
+<details>
 High-quality, professionally produced video content
 Clear, easy-to-follow instructions suitable for all levels
 Option to adjust video quality based on user's internet speed
+</details>
 #### **Resource Library**
+<details>
 Curated list of recommended books on mindfulness and yoga
 Carefully selected digital resources for further learning
 User-friendly categorization and search functionality
+</details>
 #### **Positive Affirmations**
+<details>
 Selected affirmations and quotes from celebrities and famous people for motivation.
+</details>
 #### **Interactive Affirmation Chatbot**
+<details>
 AI-powered chatbot for personalized affirmation conversations
 Natural language processing for a more human-like interaction
 Option to save chat history for future reference
+</details>
 #### **Contact Us**
+<details>
 Easy-to-find contact form with clear fields
 Multiple contact options (email, phone, social media)
 Quick response guarantee to enhance user trust
+</details>
 
 ## User Experience
   
