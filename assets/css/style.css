@@ -85,12 +85,9 @@ iframe {
 #contact {
     background: url('../images/bg8.jpg') center center/cover no-repeat;
     height: 95vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 .center-form {
-    width: 60%;
+    width: 60vw;
 }
 #resources {
     background: url('../images/bg9.jpg') center center/cover no-repeat;
