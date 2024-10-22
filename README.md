@@ -66,14 +66,11 @@ Carefully selected digital resources for further learning
 User-friendly categorization and search functionality
 #### **Positive Affirmations**
 Selected affirmations and quotes from celebrities and famous people for motivation.
-#### **Interactive Affirmation Chatbot**
-AI-powered chatbot for personalized affirmation conversations
+#### **AI-Powered Interactive Affirmation Chatbot**
+AI-powered chatbot for personalized affirmation conversations, positive affirmation messages and images generation.
 Natural language processing for a more human-like interaction
-Option to save chat history for future reference
 #### **Contact Us**
 Easy-to-find contact form with clear fields
-Multiple contact options (email, phone, social media)
-Quick response guarantee to enhance user trust
 
 
 --- 
@@ -81,7 +78,7 @@ Quick response guarantee to enhance user trust
 Mindful Yoga website is designed to provide a calming, intuitive, and supportive user experience that aligns with our goal of promoting mental well-being through mindful yoga practices.
 
 ### **Visitor Goals** 
-For all first-time, returning, and frequent users, visitors can quickly and intuitively access content of the site with one click/touch via the navigation bar and fixed footer section.  
+For all first-time, returning, and frequent users, they can quickly and intuitively access content of the site with one click/touch via the navigation bar and fixed footer.  
 
 ### **User-Centered Design Elements**
 #### **Intuitive Navigation**
@@ -94,9 +91,9 @@ Consistent, clean typography enhancing readability
 Fully adaptive layout for various devices and screen sizes
 Touch-friendly interface optimized for mobile users
 #### **Accessibility Features**
-High contrast mode for visually impaired users
+Sufficient color contrast for visually impaired users 
 Screen reader compatibility (aria-label included)
-Keyboard navigation support
+Keyboard navigation supported
 Auto-generated captions for video content
  
 
@@ -107,7 +104,7 @@ Wireframe - Homepage Desktop & Mobile
 ![wireframe.png](documentation/wireframe.png)
 
 ### **Color Scheme**  
-This website used a natural palette of pinks and oranges that were inspired by the hero background image.  I combined these with a darker colour for contrast and readabilty in the text.
+This website used a natural palette of pinks and oranges.  I combined these with a darker colour for contrast and readabilty in the text.
   
 ![colorscheme.png)](documentation/colorscheme.png)
 ![colorscheme2.png)](documentation/colorscheme2.png)
@@ -124,6 +121,8 @@ are used for color scheme generator.
 ### **Typography**  
   
 [Google Fonts](https://fonts.google.com/) was used to import the fonts 'Beth Ellen' and 'Roboton'. I used Beth Ellen for h1 headings and Roboton for the main content.
+
+The Beth Ellen font is choosed to be the hero (h1) fonts as it connected to a story of love and encouragement, inspired by Rob Jelinski's mother, who passed away from cancer in 2017. This joyful handwritten typeface serves as a tribute to her legacy, encouraging users to send loving notes that embody the values she represented. Moreover, embracing the beauty of imperfection, the font reflects the natural quirks of human handwriting, aligning with mindful yoga principles that celebrate compassion and acceptance. This font creates an atmosphere that fosters authenticity and encourages visitors to embrace their unique journeys with kindness and support.
 
 ![bethellen.png)](documentation/bethellen.png)
   
