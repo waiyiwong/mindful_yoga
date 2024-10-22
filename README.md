@@ -7,8 +7,11 @@
 ---
 
 ## CONTENTS  
-  
-* [UX (User Experience) Desgin](##User-Experience)
+* [About the site](#about-mindful-yoga)
+  * [Primary Goal](#primary-goal)
+  * [Target Audience](#target-audience)
+  * [Key Features](#key-features)
+* [UX (User Experience) Desgin](#user-experience)
   * [User Stories](#user-stories) 
 * [Creation process (Strategy -> Surface)](#creation-process)
   * [Wireframes](#wireframes)
@@ -42,16 +45,44 @@
   * [Unsolved Bugs](#unsolved-bugs)
 * [Credits](#credits) 
 
-  
+
 ---    
+
+## About Mindful Yoga
+### **Primary Goal**  
+Mindful Yoga website is designed to provide a calming, intuitive, and supportive user experience that aligns with our goal of promoting mental wellbeing through mindful yoga practices.
+
+### **Target Audience**
+Our target audience primarily consists of women aged 25-45 who are seeking inner peace, self-acceptance, and improved relationships with themselves and others. These individuals, ranging from beginners to intermediate yoga practitioners, are often busy professionals or mothers looking for accessible mindful yoga solutions to relieve stress and enhance their physical and mental well-being. They are tech-savvy and comfortable using online platforms to access resources and guided sessions, making our digital offerings an ideal fit for their lifestyle. Our focus is on providing these women with the tools they need to cultivate flexibility, both in body and mind, through mindful yoga practices tailored to their unique needs and time constraints.
+
+### **Key Features**
+#### **Guided Mindful Yoga Video**
+High-quality, professionally produced video content
+Clear, easy-to-follow instructions suitable for all levels
+Option to adjust video quality based on user's internet speed
+#### **Resource Library**
+Curated list of recommended books on mindfulness and yoga
+Carefully selected digital resources for further learning
+User-friendly categorization and search functionality
+#### **Positive Affirmations**
+Selected affirmations and quotes from celebrities and famous people for motivation.
+#### **Interactive Affirmation Chatbot**
+AI-powered chatbot for personalized affirmation conversations
+Natural language processing for a more human-like interaction
+Option to save chat history for future reference
+#### **Contact Us**
+Easy-to-find contact form with clear fields
+Multiple contact options (email, phone, social media)
+Quick response guarantee to enhance user trust
 
 ## User Experience
   
-### **User Stories**  
 
-### **Primary Goal**  
-  
-Mindful Yoga
+
+
+
+
+
 
 ### **Visitor Goals** 
 Mindful Yoga
