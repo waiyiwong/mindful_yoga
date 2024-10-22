@@ -20,13 +20,12 @@
   * [Typography](#typography)
   * [Imagery](#imagery)
 * [Page Features](#page-features)
-  * [Navbar](#navbar)
-  * [Hero-Image](#hero-image)
-  * [Tagline & Call to Action](#tagline--call-to-action)
-  * [Business Ethos](#business-ethos)
-  * [Menu Page](#menu-page)
+  * [Navbar](#landing-page-with-navbar-and-footer)
+  * [Landing Page](#landing-page-with-navbar-and-footer)
+  * [Tagline](#taglines-)
+  * [Resources Page](#resources-page)
   * [Contact Page](#contact-page)
-  * [Footer](#footer)  
+  * [Footer](#landing-page-with-navbar-and-footer)
 * [Tablet & Mobile View](#tablet--mobile-view)
   * [Desktop, Tablet & Mobile Differences](#desktop-tablet--mobile-differences)
   * [Tablet View](#tablet-view)
@@ -124,37 +123,43 @@ This website used a natural palette of pinks and oranges that were inspired by t
 Mindful Yoga use stock and AI images throughout the website, with attributions to the designers placed in the [Credits](#credits) section of this README doc.
 
 ---  
+## **Page Features**
+### **Landing page with Navbar and Footer**
+ With a Call to Action buttom in the middle of the page
+![Navbar and Landing Page](documentation/homepage.png)
 
-### **Navbar and Hero Page**   
+### **Taglines**  
+1. "Find Your Balance, Feel Your Peace."
+2. "Tranquility Begins Wthin"
 
-Mindful Yoga 
+### **Resources Page**
+Under construction
 
-### **Taglines **  
+### **Contact Page**
+Under construction
 
-Mindful Yoga -- "Find Your Balance, Feel Your Peace." and "Tranquility Begins Wthin"
-
-## Tablet & Mobile View  
- 
+## Tablet & Mobile View
+![Tablet & Mobile View](documentation/responsiveness.png)
 ### **Desktop, Tablet & Mobile Differences**  
+Bootstrap 5.3.3 was implemented to ensure full responsiveness across all devices. Key features include:
 
-To ensure responsivity I used Bootstrap 5.3.3. All elements resize and wrap as necessary, with everything appearing in a column for smaller screens. The header navbar changed to pull-down toggler hamburger icon for smaller screen devices.
+- Fluid containers and a responsive grid system that adapt to screen sizes.
+- Content stacks vertically on mobile devices, while multi-column layouts are used on larger screens.
+- The navbar transforms into a collapsible hamburger icon on smaller screens for easy navigation.
+
+This approach provides an optimal viewing experience, maintaining readability and usability with minimal resizing and scrolling across all devices.
   
 
 ---  
-
 ## Future Features  
-
-- For future development, I would like to include more videos, information, and build a community on Mindful Yoga.
+- For future development, I would like to include more videos, information, and build a community on the Mindful Yoga website.
 
 ## Technologies Used    
-
 ### **Languages Used**   
-
 - HTML5
 - CSS3
 
 ### **Frameworks, Libraries, Technologies & Programs Used**  
-
 - GitHub - used to save and store all files for this website  
 - Git - used for version control
 - Google Fonts - fonts were imported from here 
@@ -170,12 +175,10 @@ To ensure responsivity I used Bootstrap 5.3.3. All elements resize and wrap as n
 - Google Lighthouse - for auditing the website
 - W3C Validator - for validating the HTML and CSS code
 
+
 ---   
-
 ## Deployment
-
 ### **How to deploy**  
-
 GitHub was used to deploy the website. These were the steps taken to acheive this:  
 
 1. Login to GitHub account
@@ -186,23 +189,20 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 6. Select 'root' from the drop-down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
-
 ### **Initial testing plan**
-
-I had planned for this site to be accessible and legible on all screen sizes. I used Chrome Dev Tools to test, tweak and debug in the early stages. I deployed my site halfway through to test on real-world devices. These devices included:  
-- MacBook Pro
-- MacBook Air
-- iPad Pro
-- iPhone 15 Pro
-- Sony Xperia
+The site was designed for accessibility and legibility across all screen sizes. Chrome DevTools was utilized for early-stage testing, tweaking, and debugging. 
 
 ### **Testing**    
-
-Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The browsers used were:  
+In the mid-development stage, the site was deployed to test on real-world devices, including:
+MacBook Pro and Air
+iPad Pro
+iPhone 15 Pro
+Sony Xperia
+This approach combined simulated testing through DevTools with actual device testing to ensure comprehensive responsiveness and functionality across various platforms and screen sizes.Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The browsers used were:  
 - Chrome   
 - Safari  
 
-### **HTML Validation using W3C Validation**  
+#### **HTML Validation using W3C Validation**  
 <details open>
 <summary>Landing page HTML validation</summary>  
 
@@ -224,7 +224,6 @@ Testing took place throughout the entire build using Dev Tools on Chrome and on 
 <br>  
 
 ### **CSS Validation using W3C Validation** 
-
 <details open>
 <summary>CSS validation</summary>  
 
@@ -234,17 +233,14 @@ Testing took place throughout the entire build using Dev Tools on Chrome and on 
 <br>  
 
 
+---
 ## Credits  
-  
 ### **Content References**
 - Mindful Yoga is built entirly by myself from scratch with reference to the folllowing websites:
 - [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS learning materials.
 - [Bootstrap](https://getbootstrap.com/docs/5.3/) for additional learning material and help with bootstrap.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) for flexbox tutorials and guidance.
-
 
 ### **Media References**  
-  
 - Adobe Color - for all color palettes and accessibility contrast ratios  
 - Adobe Express - to resize and edit images
 - Adobe Firefly - for additional AI generated images
@@ -252,9 +248,5 @@ Testing took place throughout the entire build using Dev Tools on Chrome and on 
 - Realfavicongenerator.net - for favicon
 - Figma - used to create wireframes and edit texts and images 
 
-
 ### **Acknowledgements** 
-- I would like to acknowledge my Code Institute facilitator, Shelly, for her teaching and guidance.
-
-
-[def]: #user-experience-(ux)
+- I would like to acknowledge my Code Institute facilitator, Shelly Maughan, for her teaching and guidance. Thank you so much!!!
