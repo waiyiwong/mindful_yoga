@@ -1,3 +1,3 @@
 # Mindful Yoga
-<img src="../images/responsiveness.png">
+<img src="assets/images/responsiveness.png">
 
