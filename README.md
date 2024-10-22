@@ -1,5 +1,6 @@
-# ![icon.png](assets/images/icon.png) Welcome to my Mindful Yoga Project
-<a href="https://waiyiwong.github.io/mindful_yoga/" target="_blank" style="text-align: center;">View live project here</a> <br>
+# ![Mindful Yoga icon](assets/images/icon.png) Welcome to my Mindful Yoga Project
+
+<a href="https://waiyiwong.github.io/mindful_yoga/" target="_blank" style="text-align: center;">Click here to view my first website project at Code Institute - LIVE site here</a> <br>
 (To open in a new window, press "ctrl" (or ⌘ for Mac) + click on the link) 
 <img src="documentation/responsiveness.png">
 
@@ -7,7 +8,7 @@
 
 ## CONTENTS  
   
-* [UX (User Experience) Desgin](#user-experience-(ux))
+* [UX (User Experience) Desgin][##User-Experience-(UX)]
   * [User Stories](#user-stories) 
 * [Creation process (Strategy -> Surface)](#creation-process)
   * [Wireframes](#wireframes)
@@ -258,3 +259,6 @@ Testing took place throughout the entire build using Dev Tools on Chrome and on 
 
 ### **Acknowledgements** 
 - I would like to acknowledge my Code Institute facilitator, Shelly, for her teaching and guidance.
+
+
+[def]: #user-experience-(ux)
