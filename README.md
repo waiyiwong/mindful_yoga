@@ -132,7 +132,7 @@ Mindful Yoga use stock and AI images throughout the website, with attributions t
 ---  
 ## **Page Features**
 ### **Landing page with Navbar and Footer**
- With a Call to Action buttom in the middle of the page
+ Landing page with a call-to-action (Experience Now) button in the middle of the page
 ![Navbar and Landing Page](documentation/homepage.png)
 
 ### **Taglines**  
@@ -143,7 +143,7 @@ Mindful Yoga use stock and AI images throughout the website, with attributions t
 Under construction
 
 ### **Contact Page**
-Under construction
+Essential contact form with form validation
 
 ## Desktop, Tablet & Mobile View
 ![Desktop, Tablet & Mobile View](documentation/responsiveness.png)
@@ -250,7 +250,7 @@ This approach combined simulated testing through DevTools with actual device tes
 - [Bootstrap](https://getbootstrap.com/docs/5.3/) for additional learning material and help with bootstrap.
 - https://positivepsychology.com/mindfulness-yoga/
 
-### **Media References**  
+### **Image Tools Used**  
 - Adobe Color - for all color palettes and accessibility contrast ratios  
 - Adobe Express - to resize and edit images
 - Adobe Firefly - for additional AI generated images
@@ -259,13 +259,14 @@ This approach combined simulated testing through DevTools with actual device tes
 - Figma - used to create wireframes and edit texts and images 
 
 ### **Projects for Inspiration**
-- Climb Mental Health - Mental Health
-- Minds Together - Mental Health
-- Boardgame Guardians - Safeguarding
-- CyberSafe - Safeguarding
-- Astronauts for Autism - Diversity & Inclusion
-- NeuroSpicy - Diversity & Inclusion
-- Prevent Project - Prevent (completed as a Hackathon Project)
+I've also drawn some inspiration from these projects presented in class.
+- [Climb Mental Health - Mental Health](https://github.com/SarahcEmm/Climb-Mental-Health)
+- [Minds Together - Mental Health](https://github.com/TaylaJBall/Minds-Together)
+- [NeuroSpicy - Diversity & Inclusion](https://github.com/Sazzzel/Neuro-Spicy)
+- [Prevent Project - Prevent](https://github.com/tanikair/PreventProject)
+- [Boardgame Guardians - Safeguarding](https://github.com/laurachri-hall/project-1-safeguarding-bgg)
+- [CyberSafe - Safeguarding](https://github.com/m-dixon5/CyberWise-Project)
+- [Astronauts for Autism - Diversity & Inclusion](https://github.com/TheRickyroy/astronauts-for-autism)
 
 ### **Acknowledgements** 
 - I would like to acknowledge my Code Institute facilitator, Shelly Maughan, for her teaching and guidance. Thank you so much!!!
