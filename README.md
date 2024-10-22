@@ -2,7 +2,8 @@
 
 <a href="https://waiyiwong.github.io/mindful_yoga/" target="_blank" style="text-align: center;">Click here to view my first website project at Code Institute - LIVE site here</a> <br>
 (To open in a new tab/ window, press "ctrl" (or ⌘ for Mac) + click on the link) 
-<img src="documentation/responsiveness.png">
+
+![website shown in different screen sizes](documentation/responsiveness.png)
 
 
 ---
@@ -12,8 +13,8 @@
   * [Target Audience](#target-audience)
   * [Scope / Key Features](#scope--key-features)
 * [UX (User Experience) Desgin](#user-experience)
-  * [Visitor Goals](#visitor-goals) 
-  *[User-Centered Design Elements](#user-centered-design-elements)
+  * [Visitor Goals](#visitor-goals)
+  * [User-Centered Design Elements](#user-centered-design-elements)
 * [Design](#design)
   * [Wireframes](#wireframes)
   * [Colour Scheme](#color-scheme)
@@ -22,7 +23,7 @@
 * [Page Features](#page-features)
   * [Navbar](#landing-page-with-navbar-and-footer)
   * [Landing Page](#landing-page-with-navbar-and-footer)
-  * [Tagline](#taglines-)
+  * [Taglines](#taglines-)
   * [Resources Page](#resources-page)
   * [Contact Page](#contact-page)
   * [Footer](#landing-page-with-navbar-and-footer)
@@ -189,10 +190,10 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 6. Select 'root' from the drop-down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
-### **Initial testing plan**
-The site was designed for accessibility and legibility across all screen sizes. Chrome DevTools was utilized for early-stage testing, tweaking, and debugging. 
 
-### **Testing**    
+---
+## **Testing**    
+For initial testings, the site was designed for accessibility and legibility across all screen sizes. Chrome DevTools was utilized for early-stage testing, tweaking, and debugging. 
 In the mid-development stage, the site was deployed to test on real-world devices, including:
 MacBook Pro and Air
 iPad Pro
@@ -202,7 +203,7 @@ This approach combined simulated testing through DevTools with actual device tes
 - Chrome   
 - Safari  
 
-#### **HTML Validation using W3C Validator**  
+### **HTML Validation using W3C Validator**  
 <details open>
 <summary>HTML validation</summary>  
 
