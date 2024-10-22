@@ -89,6 +89,10 @@ iframe {
 .center-form {
     width: 60%;
 }
+#resources {
+    background: url('../images/bg9.jpg') center center/cover no-repeat;
+    height: 95vh;
+}
 /* -------------- Media Query -------------- */
 @media (max-width: 400px) {
     .jumbotron p {
