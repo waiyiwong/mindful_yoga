@@ -202,24 +202,12 @@ This approach combined simulated testing through DevTools with actual device tes
 - Chrome   
 - Safari  
 
-#### **HTML Validation using W3C Validation**  
+#### **HTML Validation using W3C Validator**  
 <details open>
-<summary>Landing page HTML validation</summary>  
+<summary>HTML validation</summary>  
 
-![w3c_index.png](documentation/w3c_index.png)
+![w3c_html_validation.png](documentation/html_validation.png)
 </details>   
-
-<details>
-<summary>Menu page HTML validation</summary>  
-
-![w3c_resources.png](documentation/w3c_resources.png)
-</details>  
-
-<details>
-<summary>Contact page HTML validation</summary>  
-
-![w3c_contact.png](documentation/w3c_contact.png)
-</details>  
   
 <br>  
 
@@ -227,7 +215,7 @@ This approach combined simulated testing through DevTools with actual device tes
 <details open>
 <summary>CSS validation</summary>  
 
-![w3c_css.png](/documentation/w3c_css.png)
+![w3c_css_validation.png](documentation/css_validation.png)
 </details>   
 
 <br>
