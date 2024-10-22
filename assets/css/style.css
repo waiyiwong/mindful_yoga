@@ -1,4 +1,8 @@
 /* -------------- General rules --------------*/
+h2, h3, h5, p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
 hr {
     border: none;
     height: 1rem;
@@ -7,7 +11,6 @@ hr {
     margin: 20px auto; 
     /* Center it with spacing */
 }
-
 /* -------------- Nav bar --------------*/
 .nav-item {
     margin-left: 0.3rem;
@@ -30,10 +33,6 @@ hr {
     align-items: center;
     justify-content: center; 
     text-align: center;
-}
-h3, h5, p {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
 }
 h1 {
     font-family: "Beth Ellen", "Homemade Apple";
