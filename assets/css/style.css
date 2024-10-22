@@ -40,6 +40,7 @@ h1 {
 }
 /* -------------- Section of Mindful yoga -------------- */
 h2 {
+    color: #a68d65;
     text-align: center;
 }
 .img {
@@ -47,6 +48,9 @@ h2 {
     border-radius: 50px;
 }
 /* -------------- Section of Guided Video -------------- */
+.goldfont {
+    color: #a68d65;
+}
 iframe {
     border-radius: 30px;
     border:10px solid #a68d65;
