@@ -112,7 +112,10 @@ This website used a natural palette of pinks and oranges that were inspired by t
 ![colorscheme.png)](documentation/colorscheme.png)
 ![colorscheme2.png)](documentation/colorscheme2.png)
 
-[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) checked how accessible the colours are.  
+[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) checked how accessible the colours are and all pass.
+
+![color contrast test pass)](documentation/color_contrast.png)
+![color contrast on nav bar test pass)](documentation/color_contrast_nav_bar.png)
 
 ### **Typography**  
   
