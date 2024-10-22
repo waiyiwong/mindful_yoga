@@ -4,18 +4,18 @@
 (To open in a new tab/ window, press "ctrl" (or ⌘ for Mac) + click on the link) 
 <img src="documentation/responsiveness.png">
 
----
 
+---
 ## CONTENTS  
 * [About the site](#about-mindful-yoga)
   * [Primary Goal](#primary-goal)
   * [Target Audience](#target-audience)
-  * [Key Features](#key-features)
+  * [Scope / Key Features](#scope--key-features)
 * [UX (User Experience) Desgin](#user-experience)
-  * [User Stories](#user-stories) 
-* [Creation process (Strategy -> Surface)](#creation-process)
-  * [Wireframes](#wireframes)
+  * [Visitor Goals](#visitor-goals) 
+  *[User-Centered Design Elements](#user-centered-design-elements)
 * [Design](#design)
+  * [Wireframes](#wireframes)
   * [Colour Scheme](#color-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
@@ -55,7 +55,7 @@ Mindful Yoga website is designed to provide a calming, intuitive, and supportive
 ### **Target Audience**
 Our target audience primarily consists of women aged 25-45 who are seeking inner peace, self-acceptance, and improved relationships with themselves and others. These individuals, ranging from beginners to intermediate yoga practitioners, are often busy professionals or mothers looking for accessible mindful yoga solutions to relieve stress and enhance their physical and mental well-being. They are tech-savvy and comfortable using online platforms to access resources and guided sessions, making our digital offerings an ideal fit for their lifestyle. Our focus is on providing these women with the tools they need to cultivate flexibility, both in body and mind, through mindful yoga practices tailored to their unique needs and time constraints.
 
-### **Key Features**
+### **Scope / Key Features**
 #### **Guided Mindful Yoga Video**
 High-quality, professionally produced video content
 Clear, easy-to-follow instructions suitable for all levels
@@ -76,71 +76,38 @@ Multiple contact options (email, phone, social media)
 Quick response guarantee to enhance user trust
 
 
-## User Experience
-  
-
-
-
-
-
-
+--- 
+## **User Experience**
+Mindful Yoga website is designed to provide a calming, intuitive, and supportive user experience that aligns with our goal of promoting mental well-being through mindful yoga practices.
 
 ### **Visitor Goals** 
-Mindful Yoga
+For all first-time, returning, and frequent users, visitors can quickly and intuitively access content of the site with one click/touch via the navigation bar and fixed footer section.  
 
-### **First Time Visitor**
-  - A user can access each page of the site with one click via the navigation bar.
-
-### **Returning Visitor**  
-  - A user can quickly access events from the nav bar or in the main body.
-  - A user can find social media links in the footer to learn more about Mindful Yoga.
-  
-### **Frequent Visitor**  
-  - A user can view the social media links to check for other updates.    
+### **User-Centered Design Elements**
+#### **Intuitive Navigation**
+Clear, concise menu structure for easy site exploration
+#### **Calming Visual Design**
+Soothing nautral color palette to evoke tranquility
+High-quality video of mindful yoga and serene environments
+Consistent, clean typography enhancing readability
+#### **Responsive Design**
+Fully adaptive layout for various devices and screen sizes
+Touch-friendly interface optimized for mobile users
+#### **Accessibility Features**
+High contrast mode for visually impaired users
+Screen reader compatibility (aria-label included)
+Keyboard navigation support
+Auto-generated captions for video content
+ 
 
 --- 
-
-## Creation Process  
-  
-### **1. Strategy**  
-
-- Mobile responsiveness is an essential feature required for this website.
-  
-
-### **2. Scope**  
-
-Mindful YOga
-
-- The site is to contain only essential information, presented in a similar fashion and layout.   
-- Text are clear and legible on any sized device to allow the user instant access to the menu, content, and contact information.  
-  
-
-### **3. Structural**  
-
-It was requested that the design was straightforward, clear and easy to understand with the following features:
- 
-- A hero section that quicky and clearly describe the purpose of the website.
-
-  
-### **4. Skeleton**  
-
-Mindful YOga
-
-
-### Wireframes  
-
+ ## Design
+ ### Wireframes  
 <summary>Wireframe - Homepage Desktop & Mobile</summary>  
 
 ![wireframe.png](documentation/wireframe.png)
 
-### **5. Surface**  
-
-The design was intended and created to evoke a relaxing and safe environment.
- 
- ## Design  
-
 ### **Color Scheme**  
-
 This website used a natural palette of pinks and oranges that were inspired by the hero background image.  I combined these with a darker colour for contrast and readabilty in the text.
   
 ![colorscheme.png)](documentation/colorscheme.png)
