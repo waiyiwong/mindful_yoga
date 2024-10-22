@@ -204,7 +204,14 @@ iPhone 15 Pro
 Sony Xperia
 This approach combined simulated testing through DevTools with actual device testing to ensure comprehensive responsiveness and functionality across various platforms and screen sizes.Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The browsers used were:  
 - Chrome   
-- Safari  
+- Safari
+
+### **Google Lighthouse performance scoring check**
+<details open>
+<summary>Google Lighthouse Performance Score</summary>  
+
+![Google Lighthouse Performance.png](documentation/light_house_score.png)
+</details>   
 
 ### **HTML Validation using W3C Validator**  
 <details open>
