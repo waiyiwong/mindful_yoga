@@ -26,7 +26,7 @@
   * [Resources Page](#resources-page)
   * [Contact Page](#contact-page)
   * [Footer](#landing-page-with-navbar-and-footer)
-* [Tablet & Mobile View](#tablet--mobile-view)
+* [Desktop, Tablet & Mobile View](#desktop-tablet--mobile-view)
   * [Desktop, Tablet & Mobile Differences](#desktop-tablet--mobile-differences)
   * [Tablet View](#tablet-view)
   * [Mobile View](#mobile-view)
@@ -138,8 +138,8 @@ Under construction
 ### **Contact Page**
 Under construction
 
-## Tablet & Mobile View
-![Tablet & Mobile View](documentation/responsiveness.png)
+## Desktop, Tablet & Mobile View
+![Desktop, Tablet & Mobile View](documentation/responsiveness.png)
 ### **Desktop, Tablet & Mobile Differences**  
 Bootstrap 5.3.3 was implemented to ensure full responsiveness across all devices. Key features include:
 
