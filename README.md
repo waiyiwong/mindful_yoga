@@ -1,14 +1,14 @@
 # ![Mindful Yoga icon](assets/images/icon.png) Welcome to my Mindful Yoga Project
 
 <a href="https://waiyiwong.github.io/mindful_yoga/" target="_blank" style="text-align: center;">Click here to view my first website project at Code Institute - LIVE site here</a> <br>
-(To open in a new window, press "ctrl" (or ⌘ for Mac) + click on the link) 
+(To open in a new tab/ window, press "ctrl" (or ⌘ for Mac) + click on the link) 
 <img src="documentation/responsiveness.png">
 
 ---
 
 ## CONTENTS  
   
-* [UX (User Experience) Desgin][##User-Experience-(UX)]
+* [UX (User Experience) Desgin][##User-Experience]
   * [User Stories](#user-stories) 
 * [Creation process (Strategy -> Surface)](#creation-process)
   * [Wireframes](#wireframes)
@@ -45,7 +45,7 @@
   
 ---    
 
-## User Experience (UX)
+## User Experience
   
 ### **User Stories**  
 
