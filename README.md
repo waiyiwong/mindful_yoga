@@ -1,6 +1,4 @@
-# ![Logo_t.png](assets/images/Logo_t.png) Mindful Yoga
-<a href="https://waiyiwong.github.io/mindful_yoga/" style="text-align: center;">View live project here</a>
-    <br>
-*(To open in a new window, press "ctrl" (or ⌘ for Mac) + click on the link)*
+# ![icon.png](assets/images/icon.png) Mindful Yoga
+<a href="https://waiyiwong.github.io/mindful_yoga/" target="_blank" style="text-align: center;">View live project here (open on new tab)</a>
 <img src="assets/images/responsiveness.png">
 
