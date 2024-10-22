@@ -31,7 +31,7 @@ hr {
     justify-content: center; 
     text-align: center;
 }
-h5, p {
+h3, h5, p {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 }
@@ -76,8 +76,19 @@ iframe {
     margin-left: 3rem;
     padding-top: 3rem;
 }
-
 /* -------------- Footer -------------- */
+
+/* -------------- Contac Us -------------- */
+#contact {
+    background: url('../images/bg7.jpg') center center/cover no-repeat;
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center-form {
+    width: 60%;
+}
 /* -------------- Media Query -------------- */
 @media (max-width: 400px) {
     .jumbotron p {
