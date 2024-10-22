@@ -224,6 +224,7 @@ This approach combined simulated testing through DevTools with actual device tes
 ### **Bugs & Fixes**
 - Failed responsiveness in smaller devices (fixed with bootstrap & media query)
 - Toggler menu not working properly-- failed pull-down menu (add missing ul and div tags and id)
+- Toggler menu not closing on the 2nd click/touch (remove the two additional bootstrap scripts, seem crashing)
 
 ### **Unsolved Bugs**
 
