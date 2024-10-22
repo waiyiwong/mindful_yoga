@@ -230,11 +230,15 @@ This approach combined simulated testing through DevTools with actual device tes
 ![w3c_css.png](/documentation/w3c_css.png)
 </details>   
 
-<br>  
+<br>
+
+### **Bugs & Fixes**
+
+### **Unsolved Bugs**
 
 
 ---
-## Credits  
+## **Credits**
 ### **Content References**
 - Mindful Yoga is built entirly by myself from scratch with reference to the folllowing websites:
 - [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS learning materials.
@@ -247,6 +251,15 @@ This approach combined simulated testing through DevTools with actual device tes
 - Freepik.com - for AI generated images generation
 - Realfavicongenerator.net - for favicon
 - Figma - used to create wireframes and edit texts and images 
+
+### **Projects for Inspiration**
+- Climb Mental Health - Mental Health
+- Minds Together - Mental Health
+- Boardgame Guardians - Safeguarding
+- CyberSafe - Safeguarding
+- Astronauts for Autism - Diversity & Inclusion
+- NeuroSpicy - Diversity & Inclusion
+- Prevent Project - Prevent (completed as a Hackathon Project)
 
 ### **Acknowledgements** 
 - I would like to acknowledge my Code Institute facilitator, Shelly Maughan, for her teaching and guidance. Thank you so much!!!
