@@ -70,8 +70,19 @@ iframe {
 .quotes {
     border-radius: 30px;
 }
-/* -------------- Footer -------------- */
-
+/* -------------- resources -------------- */
+.resources_img {
+    height: auto;
+    width: 300px;
+}
+.resources-img {
+    width: auto;
+    height: 280px;
+}
+.card-body {
+    padding: 1rem;
+    margin-bottom: 3rem;
+}
 /* -------------- Contac Us -------------- */
 #contact {
     background: url('../images/bg8.jpg') center center/cover no-repeat;
