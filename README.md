@@ -50,7 +50,7 @@
 
 ## About Mindful Yoga
 ### **Primary Goal**  
-Mindful Yoga website is designed to provide a calming, intuitive, and supportive user experience that aligns with our goal of promoting mental wellbeing through mindful yoga practices.
+Mindful Yoga website is designed to provide a calming, intuitive, and supportive user experience that aligns with our goal of promoting mental well-being through mindful yoga practices.
 
 ### **Target Audience**
 Our target audience primarily consists of women aged 25-45 who are seeking inner peace, self-acceptance, and improved relationships with themselves and others. These individuals, ranging from beginners to intermediate yoga practitioners, are often busy professionals or mothers looking for accessible mindful yoga solutions to relieve stress and enhance their physical and mental well-being. They are tech-savvy and comfortable using online platforms to access resources and guided sessions, making our digital offerings an ideal fit for their lifestyle. Our focus is on providing these women with the tools they need to cultivate flexibility, both in body and mind, through mindful yoga practices tailored to their unique needs and time constraints.
