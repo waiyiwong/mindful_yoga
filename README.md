@@ -140,7 +140,7 @@ Mindful Yoga use stock and AI images throughout the website, with attributions t
 2. "Tranquility Begins Wthin"
 
 ### **Resources Page**
-Under construction
+Resources library offers a variety of resources on Mindful Yoga practices
 
 ### **Contact Page**
 Essential contact form with form validation
