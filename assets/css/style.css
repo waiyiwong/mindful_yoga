@@ -57,11 +57,10 @@ iframe {
 }
 /* -------------- Section of Affirmation -------------- */
 .affirmation-bg {
-    background: url('../images/bg6.jpg') center no-repeat;
-    /* height: 95vh; */
+    background: url('../images/bg11.png') center center no-repeat;
 }
 .iframe2 {
-    border: 3px dotted #dfe0df;
+    border: 1px dotted #dfe0df;
 }
 .quote-img {
     height: 50px;
@@ -71,13 +70,6 @@ iframe {
 .quotes {
     background-color: #fff8e8a2;
     border-radius: 30px;
-    /* border: 3px dotted #dfe0df;
-    height: 500px;
-    max-width: 500px;
-    display: flex;
-    flex-direction: column;
-    margin-left: 3rem;
-    padding-top: 3rem; */
 }
 /* -------------- Footer -------------- */
 
@@ -103,14 +95,6 @@ iframe {
     }
 }
 @media (max-width: 767px) {
-    .quotes {
-        /* flex-direction: row;
-        height:fit-content;
-        max-width: 98%;
-        margin-top: 2rem;
-        padding: 1rem;
-        border:5px dotted #dfe0df; */
-    }
     #affirmation {
         margin-bottom: 3rem;
     }
