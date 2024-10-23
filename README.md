@@ -84,7 +84,7 @@ For all first-time, returning, and frequent users, they can quickly and intuitiv
 #### **Intuitive Navigation**
 Clear, concise menu structure for easy site exploration
 #### **Calming Visual Design**
-Soothing nautral color palette to evoke tranquility
+Soothing natural color palette to evoke tranquility
 High-quality video of mindful yoga and serene environments
 Consistent, clean typography enhancing readability
 #### **Responsive Design**
@@ -104,16 +104,16 @@ Wireframe - Homepage Desktop & Mobile
 ![wireframe.png](documentation/wireframe.png)
 
 ### **Color Scheme**  
-This website used a natural palette of pinks and oranges.  I combined these with a darker colour for contrast and readabilty in the text.
+This website used a natural palette of pinks and oranges.  I combined these with a darker colour for contrast and readability in the text.
   
 ![colorscheme.png)](documentation/colorscheme.png)
 ![colorscheme2.png)](documentation/colorscheme2.png)
 
 [Colormind](http://colormind.io/) 
 [Color Palettes](https://mycolor.space/)
-are used for color scheme generator.
+are used for color scheme generators.
 
-[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) checks the color contrast (accessiblility) of the site.
+[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) checks the color contrast (accessibility) of the site.
 
 ![color contrast test pass)](documentation/color_contrast.png)
 ![color contrast on nav bar test pass)](documentation/color_contrast_nav_bar.png)
@@ -122,7 +122,7 @@ are used for color scheme generator.
   
 [Google Fonts](https://fonts.google.com/) was used to import the fonts 'Beth Ellen' and 'Roboton'. I used Beth Ellen for h1 headings and Roboton for the main content.
 
-The Beth Ellen font is choosed to be the hero (h1) fonts as it connected to a story of love and encouragement, inspired by Rob Jelinski's mother, who passed away from cancer in 2017. This joyful handwritten typeface serves as a tribute to her legacy, encouraging users to send loving notes that embody the values she represented. Moreover, embracing the beauty of imperfection, the font reflects the natural quirks of human handwriting, aligning with mindful yoga principles that celebrate compassion and acceptance. This font creates an atmosphere that fosters authenticity and encourages visitors to embrace their unique journeys with kindness and support.
+The Beth Ellen font is chosen to be the hero (h1) fonts as it is connected to a story of love and encouragement, inspired by Rob Jelinski's mother, who passed away from cancer in 2017. This joyful handwritten typeface serves as a tribute to her legacy, encouraging users to send loving notes that embody the values she represented. Moreover, embracing the beauty of imperfection, the font reflects the natural quirks of human handwriting, aligning with mindful yoga principles that celebrate compassion and acceptance. This font creates an atmosphere that fosters authenticity and encourages visitors to embrace their unique journeys with kindness and support.
 
 ![bethellen.png)](documentation/bethellen.png)
   
